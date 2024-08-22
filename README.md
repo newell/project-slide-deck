@@ -1,3 +1,3 @@
 # Beamer Slide Deck
 
-This repository is a simple beamer slide deck that I threw together to demonstrate some projects that I had worked on in the past.
+This repository contains a beamer slide deck that I created to showcase various projects I have worked on in the past.
